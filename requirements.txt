@@ -1,16 +1,12 @@
-forex-python
 GitPython
 gputil
-gpytorch==1.2.1
+gpytorch
 hpbandster
 hyperopt
-pandas-datareader
 pathos
 progressbar2
 pthflops
 pyro-ppl==1.5.1
-pystan
 smac==0.13.1
 torch==1.7.0
 torchvision
-tsplib95
